@@ -1,4 +1,4 @@
-####################
+﻿####################
 Attendees & learners
 ####################
 
@@ -12,7 +12,7 @@ DjangoCon Europe in Cardiff, 4th June 2015
 ------------------------------------------
 
 * David Bannon
-* 
+* Bryan Spence
 
 Dutch Django Association Sprint in Amsterdam, 7th March 2015
 ------------------------------------------------------------
